@@ -2,17 +2,17 @@
 :microscope: Bahan - Bahan buat workshop WRI pada tanggal 6 Januari 2018
 
 ## :books: Materi 
-[Dasar ES6](https://github.com/wrideveloper/workshop-react-native/module/dasar-es6.md)
+[Dasar ES6](https://github.com/wrideveloper/workshop-react-native/blob/master/module/dasar-es6.md)
 
-[Pengenalan React Native]("/")
+[Pengenalan React Native](https://github.com/wrideveloper/workshop-react-native/blob/master/module/dasar-react-native.md)
 
 #### :school_satchel: Bonus
-[Pembahasan Native Base]("/")
+[Pembahasan Native Base](https://github.com/wrideveloper/workshop-react-native/blob/master/module/native-base.md)
 
 ## :pill: Requriment
-[Node JS](https://github.com/wrideveloper/workshop-react-native/module/instalasi-node-js.md)
+[Node JS](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-node-js.md)
 
-[React Native CLI]("")
+[React Native CLI](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-react-native-cli.md)
 
 [Text Editor Kesayangan]("")
 

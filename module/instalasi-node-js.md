@@ -16,4 +16,7 @@
 >**sudo apt install nodejs**  
 **sudo apt install npm**
 
+3. install build essential
+>**sudo apt install build-essential**
+
 **note** : ubah **apt** menjadi **apt-get** apabila anda menggunakan ubuntu dengan versi dibawah 16.04

@@ -10,6 +10,8 @@
 
 Text Editor Kesayangan
 
+[Java SE Development Kit (JDK)]("")
+
 [Android SDK]("")
 
 [Genymotion (optional)]("")

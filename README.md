@@ -10,7 +10,7 @@
 
 Text Editor Kesayangan
 
-[Java SE Development Kit (JDK)]("https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-jdk.md")
+[Java SE Development Kit (JDK)](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-jdk.md)
 
 [Android SDK]("")
 

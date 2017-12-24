@@ -13,22 +13,3 @@ Text Editor Kesayangan
 [Java SE Development Kit (JDK)](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-jdk.md)
 
 [Android SDK]("")
-
-[Genymotion (optional)]("")
-
-## :memo: Petunjuk Instalasi
-Cara instalasi pada Windows
- - [Dokumentasi]("")
- - [Screencast]("")
- 
-Cara instalasi pada Linux
- - [Dokumentasi]("")
- - [Screencast]("")
-
-## :books: Materi 
-[Dasar ES6](https://github.com/wrideveloper/workshop-react-native/blob/master/module/dasar-es6.md)
-
-[Pengenalan React Native](https://github.com/wrideveloper/workshop-react-native/blob/master/module/dasar-react-native.md)
-
-#### :school_satchel: Bonus
-[Pembahasan Native Base](https://github.com/wrideveloper/workshop-react-native/blob/master/module/native-base.md)

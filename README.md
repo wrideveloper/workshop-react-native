@@ -4,15 +4,16 @@
 **Harap menginstall terlebih dahulu sebelum mengikuti workshop**
 
 ## :pill: Requirement
+
+[Java SE Development Kit (JDK)](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-jdk.md)
+
+[Android SDK](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-android-sdk.md)
+
 [Node JS](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-node-js.md)
 
 [React Native CLI](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-react-native-cli.md)
 
 Text Editor Kesayangan
-
-[Java SE Development Kit (JDK)](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-jdk.md)
-
-[Android SDK]("")
 
 ## :books: Materi 
 [Dasar ES6](https://github.com/wrideveloper/workshop-react-native/blob/master/module/dasar-es6.md)

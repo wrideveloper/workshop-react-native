@@ -13,6 +13,8 @@
 
 [React Native CLI](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-react-native-cli.md)
 
+[Membuat Project React Native](https://github.com/wrideveloper/workshop-react-native/blob/master/module/instalasi-project-react-native.md)
+
 Text Editor Kesayangan
 
 ## :books: Materi 

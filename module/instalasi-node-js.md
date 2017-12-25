@@ -10,21 +10,29 @@
 ## Pada linux (ubuntu)
 
 1. update repository anda
->**sudo apt update**
+```
+sudo apt update
+```
 
 2. install paket nodejs dan npm
->**sudo apt install nodejs**  
-**sudo apt install npm**
+```
+sudo apt install nodejs
+```
+```
+sudo apt install npm
+```
 
 3. install build essential
->**sudo apt install build-essential**
+```
+sudo apt install build-essential
+```
 
 **note** : ubah **apt** menjadi **apt-get** apabila anda menggunakan ubuntu dengan versi dibawah 16.04
 
+
 ## Menggunakan version Manager
 
-
-### Wndows
+### Windows
 1. Install [Choco Package Manager](https://chocolatey.org/) 
 2. Buka cmd paste kode berikut
 ```

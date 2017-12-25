@@ -1,13 +1,17 @@
-# Instalasi node js
+# Instalasi Node JS
 
-## Pada windows
+Untuk menginstall node js, ada dua cara, yaitu **menginstall node js secara langsung**, atau dengan menggunakan **NVM (Node Version Manager)**
+
+## Opsi 1 : Install node js secara langsung
+
+### Windows
 1. Silahkan download nodejs dari website resminya di [https://nodejs.org/en/](https://nodejs.org/en/)
 
 2. Pilih versi **node js LTS (Recommend for most users)**
 
 3. Seteleh selesai didownload, silahkan lakukan instalasi seperti biasa
 
-## Pada linux (ubuntu)
+### Linux (ubuntu)
 
 1. update repository anda
 ```
@@ -30,7 +34,7 @@ sudo apt install build-essential
 **note** : ubah **apt** menjadi **apt-get** apabila anda menggunakan ubuntu dengan versi dibawah 16.04
 
 
-## Menggunakan version Manager
+## Opsi 2 : Menggunakan NVM (Node Version Manager)
 
 ### Windows
 1. Install [Choco Package Manager](https://chocolatey.org/) 

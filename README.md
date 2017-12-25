@@ -2,7 +2,8 @@
 :microscope: Bahan - Bahan buat workshop WRI pada tanggal 6 Januari 2018
 
 **Harap menginstall terlebih dahulu sebelum mengikuti workshop**
-### Penting : Peserta diharap membawa smartphone android dan kabel data, untuk mengatasi apabila laptop yang dibawa tidak kuat untuk menjalankan emulator android
+### Penting : 
+Peserta diharap **membawa smartphone android dan kabel data**, untuk mengatasi apabila laptop yang dibawa tidak kuat untuk menjalankan emulator android
 
 ## :pill: Requirement
 

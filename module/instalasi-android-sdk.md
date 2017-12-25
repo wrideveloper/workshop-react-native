@@ -19,7 +19,8 @@ Karena android sdk sudah di bundle kedalam android studio, maka kita tidak bisa 
 
 4. Kemudian lanjutkan proses instalasi
 
-5. Setelah instalasi selesai, anda akan disambut dengan welcome screen android studio  
+5. Setelah instalasi selesai, anda akan disambut dengan welcome screen android studio
+![welcome screen](https://raw.githubusercontent.com/wrideveloper/workshop-react-native/master/images/welcome-screen.png)
 
 ### 2. Instalasi Android SDK
 
@@ -36,12 +37,14 @@ Karena android sdk sudah di bundle kedalam android studio, maka kita tidak bisa 
     - Android SDK Platform 23
     - Intel x86 Atom_64 System Image
     - Google APIs Intel x86 Atom_64 System Image
+![sdk platform tab](https://raw.githubusercontent.com/wrideveloper/workshop-react-native/master/images/sdk-platform-tab.png)
 
 6. Kemudian pilih tab SDK Tools dan jangan lupa centang checkbox _Show Package Details_
 
 7. Pilih **Android SDK Build-Tools** dan centang item **23.0.1**
-
+![sdk tool tab](https://raw.githubusercontent.com/wrideveloper/workshop-react-native/master/images/sdk-tool-tab.png)
 8. Klik _Apply_ untuk mendownload dan menginstall Android SDK
+![install sdk](https://raw.githubusercontent.com/wrideveloper/workshop-react-native/master/images/sdk-install.png)
 
 ### 3. Mengatur Direktori ANDROID_HOME
 
@@ -62,6 +65,8 @@ Karena android sdk sudah di bundle kedalam android studio, maka kita tidak bisa 
 7. Isi variable name dengan _ANDROID_HOME_ dan Variable Value dengan direktori letak Android SDK anda berada  
     > Secara Default SDK Manager terinstall pada direktori berikut :  
 c:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk
+
+![environment variable](https://raw.githubusercontent.com/wrideveloper/workshop-react-native/master/images/environtment-variable.png)
 
 #### Pada Linux :
 

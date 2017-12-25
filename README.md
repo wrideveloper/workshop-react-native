@@ -24,7 +24,5 @@ Peserta diharap **membawa smartphone android dan kabel data**, untuk mengatasi a
 ## :books: Materi 
 [Dasar ES6](https://github.com/wrideveloper/workshop-react-native/blob/master/module/dasar-es6.md)
 
-[Project React Native Todo App](https://github.com/mnindra/TodoApp)
-
 #### :school_satchel: Bonus
 [Native Base](https://nativebase.io)

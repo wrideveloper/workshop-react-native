@@ -1,5 +1,7 @@
 # Instalasi Android SDK
 
+Tutorial berikut bisa digunakan untuk pengguna **windows** ataupun **linux**  
+
 Ikuti langkah - langkah berikut secara berurutan
 
 ### 1. Instalasi Android Studio
@@ -43,6 +45,8 @@ Karena android sdk sudah di bundle kedalam android studio, maka kita tidak bisa 
 
 ### 3. Mengatur Direktori ANDROID_HOME
 
+#### Pada Windows :
+
 1. Ketik _environment variables_ pada pencarian windows
 
 2. Kemudian pilih _edit the system environment variables_
@@ -56,5 +60,16 @@ Karena android sdk sudah di bundle kedalam android studio, maka kita tidak bisa 
 6. Klik tombol New... pada System Variables
 
 7. Isi variable name dengan _ANDROID_HOME_ dan Variable Value dengan direktori letak Android SDK anda berada  
->> Secara Default SDK Manager terinstall pada direktori berikut :  
+    > Secara Default SDK Manager terinstall pada direktori berikut :  
 c:\Users\YOUR_USERNAME\AppData\Local\Android\Sdk
+
+#### Pada Linux :
+
+1. Edit file .bashrc yang terletak pada : _/home/YOUR_USERNAME/.bashrc_
+
+2. Tambahkan perintah berikut pada akhir isi dari file .bashrc :
+    > export ANDROID_HOME=$HOME/Android/Sdk
+  export PATH=$PATH:$ANDROID_HOME/tools
+  export PATH=$PATH:$ANDROID_HOME/platform-tools
+3. Refresh konfigurasi dengan mengetikkan perintah berikut pada terminal : 
+    > source ~/.bashrc
